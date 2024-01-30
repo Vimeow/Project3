@@ -1,0 +1,419 @@
+Country,Species,Value
+Australia,Mammals,107
+Australia,Birds,135
+Australia,Reptiles,60
+Australia,Amphibians,39
+Australia,Fish,53
+Australia,Marine Fish,15
+Australia,Freshwater Fish,38
+Australia,Vascular plants,1350
+Australia,Mosses,1
+Australia,Lichens,
+Australia,Invertebrates,71
+Austria,Mammals,27
+Austria,Birds,66
+Austria,Reptiles,9
+Austria,Amphibians,12
+Austria,Fish,39
+Austria,Marine Fish,
+Austria,Freshwater Fish,39
+Austria,Vascular plants,1092
+Austria,Mosses,238
+Austria,Lichens,443
+Austria,Invertebrates,968
+Belgium,Mammals,18
+Belgium,Birds,55
+Belgium,Reptiles,4
+Belgium,Amphibians,6
+Belgium,Fish,29
+Belgium,Marine Fish,14
+Belgium,Freshwater Fish,15
+Belgium,Vascular plants,423
+Belgium,Mosses,140
+Belgium,Lichens,495
+Belgium,Invertebrates,566
+Canada,Mammals,55
+Canada,Birds,97
+Canada,Reptiles,29
+Canada,Amphibians,18
+Canada,Fish,90
+Canada,Marine Fish,54
+Canada,Freshwater Fish,36
+Canada,Vascular plants,965
+Canada,Mosses,405
+Canada,Lichens,328
+Canada,Invertebrates,2317
+Chile,Mammals,36
+Chile,Birds,46
+Chile,Reptiles,52
+Chile,Amphibians,44
+Chile,Fish,38
+Chile,Marine Fish,1
+Chile,Freshwater Fish,37
+Chile,Vascular plants,426
+Chile,Mosses,9
+Chile,Lichens,2
+Chile,Invertebrates,119
+Colombia,Mammals,37
+Colombia,Birds,125
+Colombia,Reptiles,44
+Colombia,Amphibians,299
+Colombia,Fish,109
+Colombia,Marine Fish,12
+Colombia,Freshwater Fish,51
+Colombia,Vascular plants,665
+Colombia,Mosses,42
+Colombia,Lichens,0
+Colombia,Invertebrates,98
+Costa Rica,Mammals,21
+Costa Rica,Birds,30
+Costa Rica,Reptiles,13
+Costa Rica,Amphibians,60
+Costa Rica,Fish,106
+Costa Rica,Marine Fish,
+Costa Rica,Freshwater Fish,
+Costa Rica,Vascular plants,158
+Costa Rica,Mosses,2
+Costa Rica,Lichens,
+Costa Rica,Invertebrates,31
+Czechia,Mammals,15
+Czechia,Birds,99
+Czechia,Reptiles,7
+Czechia,Amphibians,16
+Czechia,Fish,25
+Czechia,Marine Fish,
+Czechia,Freshwater Fish,25
+Czechia,Vascular plants,908
+Czechia,Mosses,224
+Czechia,Lichens,569
+Czechia,Invertebrates,3313
+Denmark,Mammals,9
+Denmark,Birds,84
+Denmark,Reptiles,1
+Denmark,Amphibians,5
+Denmark,Fish,8
+Denmark,Marine Fish,
+Denmark,Freshwater Fish,8
+Denmark,Vascular plants,162
+Denmark,Mosses,51
+Denmark,Lichens,221
+Denmark,Invertebrates,602
+Estonia,Mammals,3
+Estonia,Birds,95
+Estonia,Reptiles,2
+Estonia,Amphibians,3
+Estonia,Fish,9
+Estonia,Marine Fish,4
+Estonia,Freshwater Fish,9
+Estonia,Vascular plants,204
+Estonia,Mosses,159
+Estonia,Lichens,181
+Estonia,Invertebrates,137
+Finland,Mammals,8
+Finland,Birds,86
+Finland,Reptiles,1
+Finland,Amphibians,1
+Finland,Fish,12
+Finland,Marine Fish,2
+Finland,Freshwater Fish,10
+Finland,Vascular plants,212
+Finland,Mosses,312
+Finland,Lichens,477
+Finland,Invertebrates,1298
+France,Mammals,17
+France,Birds,107
+France,Reptiles,9
+France,Amphibians,8
+France,Fish,26
+France,Marine Fish,11
+France,Freshwater Fish,15
+France,Vascular plants,421
+France,Mosses,
+France,Lichens,
+France,Invertebrates,219
+Germany,Mammals,39
+Germany,Birds,94
+Germany,Reptiles,9
+Germany,Amphibians,10
+Germany,Fish,49
+Germany,Marine Fish,21
+Germany,Freshwater Fish,28
+Germany,Vascular plants,1410
+Germany,Mosses,409
+Germany,Lichens,1052
+Germany,Invertebrates,3752
+Greece,Mammals,29
+Greece,Birds,62
+Greece,Reptiles,9
+Greece,Amphibians,6
+Greece,Fish,63
+Greece,Marine Fish,14
+Greece,Freshwater Fish,49
+Greece,Vascular plants,255
+Greece,Mosses,
+Greece,Lichens,
+Greece,Invertebrates,
+Hungary,Mammals,14
+Hungary,Birds,78
+Hungary,Reptiles,4
+Hungary,Amphibians,2
+Hungary,Fish,35
+Hungary,Marine Fish,
+Hungary,Freshwater Fish,35
+Hungary,Vascular plants,382
+Hungary,Mosses,173
+Hungary,Lichens,113
+Hungary,Invertebrates,24
+Iceland,Mammals,
+Iceland,Birds,33
+Iceland,Reptiles,
+Iceland,Amphibians,
+Iceland,Fish,
+Iceland,Marine Fish,
+Iceland,Freshwater Fish,
+Iceland,Vascular plants,52
+Iceland,Mosses,
+Iceland,Lichens,
+Iceland,Invertebrates,
+Ireland,Mammals,1
+Ireland,Birds,133
+Ireland,Reptiles,0
+Ireland,Amphibians,1
+Ireland,Fish,
+Ireland,Marine Fish,17
+Ireland,Freshwater Fish,5
+Ireland,Vascular plants,101
+Ireland,Mosses,113
+Ireland,Lichens,
+Ireland,Invertebrates,179
+Italy,Mammals,23
+Italy,Birds,67
+Italy,Reptiles,11
+Italy,Amphibians,14
+Italy,Fish,47
+Italy,Marine Fish,22
+Italy,Freshwater Fish,25
+Italy,Vascular plants,631
+Italy,Mosses,237
+Italy,Lichens,153
+Italy,Invertebrates,456
+Japan,Mammals,34
+Japan,Birds,98
+Japan,Reptiles,37
+Japan,Amphibians,47
+Japan,Fish,185
+Japan,Marine Fish,16
+Japan,Freshwater Fish,169
+Japan,Vascular plants,1790
+Japan,Mosses,240
+Japan,Lichens,63
+Japan,Invertebrates,65
+Korea,Mammals,14
+Korea,Birds,54
+Korea,Reptiles,5
+Korea,Amphibians,5
+Korea,Fish,24
+Korea,Marine Fish,
+Korea,Freshwater Fish,24
+Korea,Vascular plants,188
+Korea,Mosses,
+Korea,Lichens,
+Korea,Invertebrates,174
+Latvia,Mammals,5
+Latvia,Birds,39
+Latvia,Reptiles,2
+Latvia,Amphibians,4
+Latvia,Fish,2
+Latvia,Marine Fish,1
+Latvia,Freshwater Fish,1
+Latvia,Vascular plants,209
+Latvia,Mosses,61
+Latvia,Lichens,24
+Latvia,Invertebrates,79
+Lithuania,Mammals,7
+Lithuania,Birds,56
+Lithuania,Reptiles,2
+Lithuania,Amphibians,4
+Lithuania,Fish,5
+Lithuania,Marine Fish,1
+Lithuania,Freshwater Fish,4
+Lithuania,Vascular plants,130
+Lithuania,Mosses,48
+Lithuania,Lichens,43
+Lithuania,Invertebrates,89
+Luxembourg,Mammals,
+Luxembourg,Birds,26
+Luxembourg,Reptiles,2
+Luxembourg,Amphibians,4
+Luxembourg,Fish,12
+Luxembourg,Marine Fish,
+Luxembourg,Freshwater Fish,12
+Luxembourg,Vascular plants,354
+Luxembourg,Mosses,
+Luxembourg,Lichens,
+Luxembourg,Invertebrates,23
+Mexico,Mammals,148
+Mexico,Birds,243
+Mexico,Reptiles,170
+Mexico,Amphibians,58
+Mexico,Fish,175
+Mexico,Marine Fish,4
+Mexico,Freshwater Fish,156
+Mexico,Vascular plants,566
+Mexico,Mosses,2
+Mexico,Lichens,
+Mexico,Invertebrates,51
+Netherlands,Mammals,10
+Netherlands,Birds,41
+Netherlands,Reptiles,5
+Netherlands,Amphibians,7
+Netherlands,Fish,23
+Netherlands,Marine Fish,10
+Netherlands,Freshwater Fish,13
+Netherlands,Vascular plants,356
+Netherlands,Mosses,122
+Netherlands,Lichens,156
+Netherlands,Invertebrates,162
+New Zealand,Mammals,
+New Zealand,Birds,
+New Zealand,Reptiles,
+New Zealand,Amphibians,
+New Zealand,Fish,
+New Zealand,Marine Fish,
+New Zealand,Freshwater Fish,
+New Zealand,Vascular plants,
+New Zealand,Mosses,20
+New Zealand,Lichens,16
+New Zealand,Invertebrates,266
+Norway,Mammals,17
+Norway,Birds,62
+Norway,Reptiles,
+Norway,Amphibians,2
+Norway,Fish,12
+Norway,Marine Fish,11
+Norway,Freshwater Fish,1
+Norway,Vascular plants,297
+Norway,Mosses,243
+Norway,Lichens,269
+Norway,Invertebrates,1356
+Poland,Mammals,13
+Poland,Birds,34
+Poland,Reptiles,3
+Poland,Amphibians,
+Poland,Fish,25
+Poland,Marine Fish,2
+Poland,Freshwater Fish,17
+Poland,Vascular plants,480
+Poland,Mosses,83
+Poland,Lichens,545
+Poland,Invertebrates,1081
+Portugal,Mammals,31
+Portugal,Birds,111
+Portugal,Reptiles,10
+Portugal,Amphibians,2
+Portugal,Fish,22
+Portugal,Marine Fish,
+Portugal,Freshwater Fish,
+Portugal,Vascular plants,
+Portugal,Mosses,
+Portugal,Lichens,
+Portugal,Invertebrates,
+Slovak Republic,Mammals,20
+Slovak Republic,Birds,51
+Slovak Republic,Reptiles,5
+Slovak Republic,Amphibians,8
+Slovak Republic,Fish,12
+Slovak Republic,Marine Fish,
+Slovak Republic,Freshwater Fish,12
+Slovak Republic,Vascular plants,527
+Slovak Republic,Mosses,312
+Slovak Republic,Lichens,357
+Slovak Republic,Invertebrates,1621
+Slovenia,Mammals,34
+Slovenia,Birds,105
+Slovenia,Reptiles,18
+Slovenia,Amphibians,17
+Slovenia,Fish,50
+Slovenia,Marine Fish,10
+Slovenia,Freshwater Fish,40
+Slovenia,Vascular plants,334
+Slovenia,Mosses,
+Slovenia,Lichens,
+Slovenia,Invertebrates,
+Spain,Mammals,26
+Spain,Birds,68
+Spain,Reptiles,19
+Spain,Amphibians,9
+Spain,Fish,42
+Spain,Marine Fish,6
+Spain,Freshwater Fish,36
+Spain,Vascular plants,1041
+Spain,Mosses,45
+Spain,Lichens,
+Spain,Invertebrates,238
+Sweden,Mammals,9
+Sweden,Birds,54
+Sweden,Reptiles,2
+Sweden,Amphibians,3
+Sweden,Fish,20
+Sweden,Marine Fish,17
+Sweden,Freshwater Fish,3
+Sweden,Vascular plants,268
+Sweden,Mosses,154
+Sweden,Lichens,
+Sweden,Invertebrates,1079
+Switzerland,Mammals,33
+Switzerland,Birds,76
+Switzerland,Reptiles,13
+Switzerland,Amphibians,14
+Switzerland,Fish,34
+Switzerland,Marine Fish,
+Switzerland,Freshwater Fish,34
+Switzerland,Vascular plants,780
+Switzerland,Mosses,387
+Switzerland,Lichens,257
+Switzerland,Invertebrates,1075
+Türkiye,Mammals,23
+Türkiye,Birds,55
+Türkiye,Reptiles,22
+Türkiye,Amphibians,8
+Türkiye,Fish,98
+Türkiye,Marine Fish,
+Türkiye,Freshwater Fish,98
+Türkiye,Vascular plants,197
+Türkiye,Mosses,
+Türkiye,Lichens,
+Türkiye,Invertebrates,89
+United Kingdom,Mammals,11
+United Kingdom,Birds,101
+United Kingdom,Reptiles,2
+United Kingdom,Amphibians,2
+United Kingdom,Fish,
+United Kingdom,Marine Fish,
+United Kingdom,Freshwater Fish,8
+United Kingdom,Vascular plants,393
+United Kingdom,Mosses,108
+United Kingdom,Lichens,190
+United Kingdom,Invertebrates,512
+Brazil,Mammals,110
+Brazil,Birds,234
+Brazil,Reptiles,80
+Brazil,Amphibians,38
+Brazil,Fish,409
+Brazil,Marine Fish,98
+Brazil,Freshwater Fish,311
+Brazil,Vascular plants,
+Brazil,Mosses,
+Brazil,Lichens,
+Brazil,Invertebrates,299
+Russia,Mammals,34
+Russia,Birds,57
+Russia,Reptiles,9
+Russia,Amphibians,0
+Russia,Fish,
+Russia,Marine Fish,
+Russia,Freshwater Fish,40
+Russia,Vascular plants,63
+Russia,Mosses,
+Russia,Lichens,
+Russia,Invertebrates,38

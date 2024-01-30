@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+    <!--Specify page enconding-->
+    <meta charset="UTF-8">
+    <!--Define dynamic settings for different browser window sizes-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+
+    <!--Import Libraries Plotly and D3-->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+
+    <!--Styling libraries-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin="" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!--Give the html page a title-->
+    <title style="text-align: center">Project 3 - Group 4</title>
+</head>
+<body>
+    <div id="headerTable"class="container-fluid p-5  text-white text-center">
+        <h1 class="title">Project 3 - Group 4</h1>
+        <h4>Analysis of Endangered Species Across the World</h4>
+        <a href="https://stats.oecd.org/Index.aspx?DataSetCode=WILD_LIFE" target="_blank" class="headerUrl">Data Source 1: Wild Life</a>
+        </br>
+        <a href="https://datahub.io/core/geo-countries#data" target="_blank" class="headerUrl">Data Source 2: Country GeoJSON's</a>
+      </div>
+    
+      <div class=".container-fluid">  
+        <div class="row">
+          <div class="col-sm-8">
+            <h1>Number of endanger species</h1>
+            <p><h3>World map displays the number of endanger species in selected countries.</h3></p>
+            <p>Click on the country to display the details.</p>
+            <!-- vy input -->
+       <!-- Dropdown menu for endanger level -->
+       <nav class="navbar navbar-expand-sm bg-light .justify-content-center">
+        <div class="container-fluid">
+          <ul class="navbar-nav \">
+            <li class="nav-item">
+                <label>Choose a dataset: </label>
+                <select id="dataset" onchange="optionChanged(this.value)"></select>
+            </li>
+          </ul>
+        </div> 
+       </nav>
+       <!-- Dropdown menu for endanger level -->
+            <!-- vy input -->
+       <!-- Dropdown menu for species -->
+       <nav class="navbar navbar-expand-sm bg-light .justify-content-center">
+        <div class="container-fluid">
+          <ul class="navbar-nav \">
+            <li class="nav-item">
+                <label>Choose a species group: </label>
+                <select id="Species" onchange="optionChanged(this.value)"></select>
+            </li>
+          </ul>
+        </div> 
+       </nav>
+       <!-- Dropdown menu for species -->
+            <div id="map"></div>  
+          </div>
+          <div class="col-sm-4">
+            <div class="row h-70">
+                <h1>Bubble Chart of Species</h1>
+                <!-- Dropdown for selecting data endpoint -->
+                <div>
+                  <label for="endpointSelect">Select Endpoint:</label>
+                  <select id="endpointSelect" onchange="updateBubbleChart()">
+                      <option value="/api/knownSpecies">Known Species</option>
+                      <option value="/api/criticallyEndangeredSpecies">Critically Endangered Species</option>
+                      <option value="/api/endangeredSpecies">Endangered Species</option>
+                      <option value="/api/threatenedSpecies">Threatened Species</option>
+                      <option value="/api/vulenerableSpecies">Vulnerable Species</option>
+                  </select>
+              </div>
+            </br></br>
+               <!-- Input field for specifying the top X countries -->
+              <div>
+                  <label for="topXInput">Top Number of Countries:</label>
+                  <input type="number" id="topXInput" min="1" value="10">
+                  <button onclick="updateBubbleChart()">Apply Filter</button>
+              </div>
+
+              <!-- Container for the Bubble Chart -->
+              <div id="bubble-chart-container">
+                <div id="bubble-chart"></div>
+              </div>
+            </div>
+            <div class="row h-80">
+               <h1>Pie Chart</h1>
+                <div id="pieChart"></div>
+            </div>
+          </div>  
+        </div>
+      </div>   
+    <!--Run script from project file-->
+  <script src="{{ url_for('static', filename='js/app1_v7.js') }}"></script> 
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/app_b4.js') }}"></script>  
+</body>
+</html>
